@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\bin\Debug\Enjambre1.exe.config
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\bin\Debug\Enjambre1.exe
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\bin\Debug\Enjambre1.pdb
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.Form1.resources
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.Properties.Resources.resources
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.exe
+C:\Users\Alex\source\repos\Enjambre1\Enjambre1\obj\Debug\Enjambre1.pdb
